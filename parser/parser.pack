@@ -1,0 +1,12 @@
+﻿#include @"parser\parser.ph"
+
+% privately used packages
+#include @"pfc\std\std.ph"
+#include @"pfc\string\string.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"parser\parser.pro"

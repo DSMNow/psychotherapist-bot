@@ -1,0 +1,20 @@
+﻿#include @"tabForm\tabForm.ph"
+
+#requires @"tabForm\tabForm.frm"
+% privately used packages
+#include @"pfc\gui\controls\tabControl\tabControl.ph"
+#include @"parser\parser.ph"
+#include @"pfc\string\string.ph"
+#include @"pfc\gui\controls\textControl\textControl.ph"
+#include @"pfc\gui\controls\editControl\editControl.ph"
+#include @"pfc\gui\controls\button\button.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\vpi\vpiDomains\vpiDomains.ph"
+#include @"pfc\resourceIdentifiers.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"tabForm\tabForm.pro"
